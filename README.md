@@ -23,29 +23,16 @@ automatically display an item icon based on what you insert.
 This mod adds **six new doors** to Valheim.  
 You can find all of them in the **Building** category of the hammer menu.
 
-|              Image              | Name                            | Required Station | Resources                     | Prefab Name                |
-|:-------------------------------:|:--------------------------------|:----------------:|:------------------------------|:---------------------------|
-|  ![](img/tkd_ashwood_door.png)  | Simple Ashwood Door             |    Workbench     | Blackwood ×12                 | `tkd_piece_ashwood_door`   |
-| ![](img/tkd_ashwood_door_1.png) | Ashwood Door with Window        | Artisan Station  | Blackwood ×7, Crystal ×2      | `tkd_piece_ashwood_door_1` |
-| ![](img/tkd_ashwood_door_2.png) | Ashwood Door with Double Window | Artisan Station  | Blackwood ×5, Crystal ×4      | `tkd_piece_ashwood_door_2` |
-| ![](img/tkd_ashwood_door_3.png) | Ashwood Door with Full Window   | Artisan Station  | Blackwood ×4, Crystal ×4      | `tkd_piece_ashwood_door_3` |
-| ![](img/tkd_ashwood_door_4.png) | Ashwood Door with Framed Window | Artisan Station  | Blackwood ×6, Crystal ×4      | `tkd_piece_ashwood_door_4` |
-|  ![](img/tkd_ashwood_gate.png)  | Ashwood Gate                    |   Black Forge    | Blackwood ×16, FlametalNew ×4 | `tkd_piece_ashwood_gate`   |
+![](https://github.com/Crowigor/ValheimTaketstrandPieces/blob/master/images/Doors.png?raw=true)
 
-## Doors
-
-[](img/doors.png)
-The mod adds six types of Ashwood doors listed below.
-All doors can be found in the Building section of the hammer.
-
-| Name                            | Station         | Cost                     | Prefab                     |
-|:--------------------------------|:----------------|:-------------------------|:---------------------------|
-| Simple Ashwood Door             | Workbench       | 12× Ashwood              | `tkd_piece_ashwood_door`   |
-| Ashwood Door with Window        | Artisan Station | 7× Ashwood, 2× Crystal   | `tkd_piece_ashwood_door_1` |
-| Ashwood Door with Double Window | Artisan Station | 5× Ashwood, 4× Crystal   | `tkd_piece_ashwood_door_2` |
-| Ashwood Door with Full Window   | Artisan Station | 4× Ashwood, 4× Crystal   | `tkd_piece_ashwood_door_3` |
-| Ashwood Door with Framed Window | Artisan Station | 6× Ashwood, 4× Crystal   | `tkd_piece_ashwood_door_4` |
-| Ashwood Gate                    | Black Forge     | 16× Ashwood, 4× Flametal | `tkd_piece_ashwood_gate`   |
+| Name                            | Required Station | Resources                     | Prefab Name                |
+|:--------------------------------|:----------------:|:------------------------------|:---------------------------|
+| Simple Ashwood Door             |    Workbench     | Blackwood ×12                 | `tkd_piece_ashwood_door`   |
+| Ashwood Door with Window        | Artisan Station  | Blackwood ×7, Crystal ×2      | `tkd_piece_ashwood_door_1` |
+| Ashwood Door with Double Window | Artisan Station  | Blackwood ×5, Crystal ×4      | `tkd_piece_ashwood_door_2` |
+| Ashwood Door with Full Window   | Artisan Station  | Blackwood ×4, Crystal ×4      | `tkd_piece_ashwood_door_3` |
+| Ashwood Door with Framed Window | Artisan Station  | Blackwood ×6, Crystal ×4      | `tkd_piece_ashwood_door_4` |
+| Ashwood Gate                    |   Black Forge    | Blackwood ×16, FlametalNew ×4 | `tkd_piece_ashwood_gate`   |
 
 ## Glass walls
 
@@ -59,9 +46,10 @@ You can find them in the **Heavy Building** category of the hammer menu.
 
 ## Named Chest
 
-[](img/NamedChest.png)
 This mod adds a **special Reinforced Chest with a customizable name**!  
 You can find it in the **Furniture** category of the hammer menu.
+
+![](https://github.com/Crowigor/ValheimTaketstrandPieces/blob/master/images/NamedChest.png?raw=true)
 
 | Name                       | Station   | Cost                            | Prefab                  |
 |:---------------------------|:----------|:--------------------------------|:------------------------|
