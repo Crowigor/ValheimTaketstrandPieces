@@ -4,7 +4,7 @@
 	"author": "Crowigor",
 	"description": "Taketstrand World Build Pieces",
 	"version_number": "1.0.0",
-	"website_url": "https://github.com/Crowigor/TaketstrandPieces",
+	"website_url": "https://github.com/Crowigor/ValheimTaketstrandPieces",
 	"dependencies": [
 		"denikson-BepInExPack_Valheim-5.4.2202",
 		"ValheimModding-Jotunn-2.24.3"
