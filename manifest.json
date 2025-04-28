@@ -1,0 +1,12 @@
+﻿{
+	"$schema": "https://raw.githubusercontent.com/Digitalroot-Valheim/Digitalroot.Valheim.Common.Interfaces/main/src/json/tsio-manifest.json",
+	"name": "TaketstrandPieces",
+	"author": "Crowigor",
+	"description": "Taketstrand World Build Pieces",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Crowigor/TaketstrandPieces",
+	"dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.2202",
+		"ValheimModding-Jotunn-2.24.3"
+	]
+}

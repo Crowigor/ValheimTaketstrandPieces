@@ -1,0 +1,7 @@
+﻿.idea
+bin
+obj
+package
+*.user
+environment.props
+TaketstrandPieces/taketstrand
